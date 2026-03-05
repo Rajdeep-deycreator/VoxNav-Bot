@@ -1,0 +1,12 @@
+Name,Purpose,Cost (USD),Qty,Total (USD),Link,Distributor
+Raspberry Pi Power Supply,Powering up Raspberry Pi 5 onboard computer,14.31,1,14.31,-,Amazon
+HDMI Cable,Display output from Raspberry Pi 5 for building the project,15.24,1,15.24,-,Amazon
+Servo Motors,Control moving parts such as arms and head,2.17,5,10.85,-,Amazon
+L298 Motor Driver Module,Controlling motor speed and direction for locomotion,2.17,1,2.17,-,Amazon
+Gear Motor,Locomotion of robot,2.06,4,8.24,-,Amazon
+IR Proximity Sensor,Light-based proximity sensor for improved obstacle detection,1.08,1,1.08,-,Amazon
+Ultrasonic Sensor,Sound vibration-based obstacle detection,2.17,1,2.17,-,Amazon
+Lithium Ion Cells,Powering the robot,1.74,5,8.70,Link to Listing,Amazon
+Raspberry Pi Night & Day Vision Camera,Obstacle detection and photo/video capture,19.64,1,19.64,Link to Listing,Amazon
+Raspberry Pi 5,Processing voice input and handling software,172.44,1,172.44,Link to Listing,Amazon
+Arduino UNO R3,Controlling hardware parts (motors, sensors, etc.),21.00,1,21.00,Link to Listing,Amazon
