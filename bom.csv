@@ -1,12 +1,15 @@
-Name,Purpose,Cost (USD),Qty,Total (USD),Link,Distributor
-Raspberry Pi Power Supply,Powering up Raspberry Pi 5 onboard computer,14.31,1,14.31,-,Amazon
-HDMI Cable,Display output from Raspberry Pi 5 for building the project,15.24,1,15.24,-,Amazon
-Servo Motors,Control moving parts such as arms and head,2.17,5,10.85,-,Amazon
-L298 Motor Driver Module,Controlling motor speed and direction for locomotion,2.17,1,2.17,-,Amazon
-Gear Motor,Locomotion of robot,2.06,4,8.24,-,Amazon
-IR Proximity Sensor,Light-based proximity sensor for improved obstacle detection,1.08,1,1.08,-,Amazon
-Ultrasonic Sensor,Sound vibration-based obstacle detection,2.17,1,2.17,-,Amazon
-Lithium Ion Cells,Powering the robot,1.74,5,8.70,Link to Listing,Amazon
-Raspberry Pi Night & Day Vision Camera,Obstacle detection and photo/video capture,19.64,1,19.64,Link to Listing,Amazon
-Raspberry Pi 5,Processing voice input and handling software,172.44,1,172.44,Link to Listing,Amazon
-Arduino UNO R3,Controlling hardware parts (motors, sensors, etc.),21.00,1,21.00,Link to Listing,Amazon
+Item,Purpose,Unit Price (USD),Quantity,Total Cost (USD),Supplier
+Wireless WiFi Router,Link robot wirelessly and allow maintenance/surveillance connection,12.00,1,12.00,Amazon
+512GB SD Card,Store robot software and data,64.00,1,64.00,Amazon
+Power Bank,Power supply for Raspberry Pi 5,18.50,1,18.50,Amazon
+HDMI Cable,Display output from Raspberry Pi 5 for setup and maintenance,15.24,1,15.24,Amazon
+Servo Motor,Control moving parts like arms and head,2.17,5,10.85,Amazon
+L298N Motor Driver,Control motor speed and direction,2.17,1,2.17,Amazon
+Gear Motor,Provide locomotion for robot wheels,2.06,4,8.24,Amazon
+IR Proximity Sensor,Light-based obstacle detection,1.08,1,1.08,Amazon
+Ultrasonic Sensor,Distance measurement for obstacle detection,2.17,1,2.17,Amazon
+Lithium Ion Cells,Power supply for robot electronics,1.74,5,8.70,Amazon
+Raspberry Pi Night Vision Camera,Obstacle detection and photo/video capture,19.64,1,19.64,Amazon
+Raspberry Pi 5,Main processing unit for software and voice input,172.44,1,172.44,Amazon
+Arduino UNO R3,Hardware control for motors and sensors,21.00,1,21.00,Amazon
+Total Estimated Cost,,,,$356.03,
