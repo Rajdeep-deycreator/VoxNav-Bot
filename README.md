@@ -53,22 +53,21 @@ This Robot has an integrated architecture of the Hardware Control Unit (HCU) and
 ## BOM (bill of material)
 
 
-| Component | Why it's used | Unit Cost (USD) | Qty | Total Cost (USD) |
-|-----------|---------------|-----------------|-----|------------------|
-| Raspberry Pi 5 | The main computer that runs the robot software and processes voice commands. | 172.44 | 1 | 172.44 |
-| Arduino UNO R3 | Handles hardware level control like reading sensors and driving motors. | 21.00 | 1 | 21.00 |
-| Gear Motors | Provide movement by driving the robot wheels. | 2.06 | 4 | 8.24 |
-| Servo Motors | Used to move mechanical parts like the cammera mount and other joints. | 2.17 | 5 | 10.85 |
-| L298N Motor Driver | Allows the controller to control motor speed and direction safely. | 2.17 | 1 | 2.17 |
-| Ultrasonic Sensor | Measures distance so the robot can detect obstacles in front. | 2.17 | 1 | 2.17 |
-| IR Proximity Sensor | Helps detect nearby objects using infrared light. | 1.08 | 1 | 1.08 |
-| Raspberry Pi Night Vision Cammera | Captures images and video so the robot can monitor surroundings even in low light. | 19.64 | 1 | 19.64 |
-| Lithium Ion Cells | Provide battery power for the robot electronics. | 1.74 | 5 | 8.70 |
-| Power Bank | Supplies portable power to the Raspberry Pi. | 18.50 | 1 | 18.50 |
-| 512GB SD Card | Stores the operating system, robot software and recorded data. | 64.00 | 1 | 64.00 |
-| Wireless WiFi Router | Enables the robot to connect to a wireless network for monitoring and control. | 12.00 | 1 | 12.00 |
-| HDMI Cable | Used during setup to connect the Raspberry Pi to a monitor for configuration. | 15.24 | 1 | 15.24 |
-| **Total Estimated Cost** |  |  |  | **356.03 USD** |
+| Item | Unit Price (USD) | Quantity | Total Cost (USD) | Supplier | Link |
+|-----|-----|-----|-----|-----|-----|
+| Wireless WiFi Router | 12.00 | 1 | 12.00 | Amazon | https://amzn.in/d/0dZghinI |
+| 512GB SD Card | 64.00 | 1 | 64.00 | Amazon | https://amzn.in/d/00N2uLZi |
+| Power Bank | 18.50 | 1 | 18.50 | Amazon | https://amzn.in/d/03DIh1oX |
+| HDMI Cable | 15.24 | 1 | 15.24 | Amazon | https://amzn.in/d/01MeQTpv |
+| Servo Motor | 2.17 | 5 | 10.85 | Amazon | https://amzn.in/d/02zVEwcj |
+| L298N Motor Driver Module | 2.17 | 1 | 2.17 | Amazon | https://amzn.in/d/08MZPjBt |
+| Gear Motor | 2.06 | 4 | 8.24 | Amazon | https://amzn.in/d/0hOpbsah |
+| Ultrasonic Sensor | 2.17 | 1 | 2.17 | Amazon | https://amzn.in/d/02gVJto1 |
+| Raspberry Pi Night Vision Camera | 19.64 | 1 | 19.64 | Amazon | https://amzn.in/d/0fJ9EsGG |
+| Raspberry Pi 5 | 172.44 | 1 | 172.44 | Amazon | https://amzn.in/d/02LNSGSi |
+| Arduino UNO R3 | 21.00 | 1 | 21.00 | Amazon | https://amzn.in/d/0icx69Kp |
+
+estinsted cost : $346.25
 
 the total break down of the BOM is also available in the "bom.csv" file at the root of this repo
 
