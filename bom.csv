@@ -1,13 +1,10 @@
 Item,Purpose,Unit Price (USD),Quantity,Total Cost (USD),Supplier,Supplier Link
 Wireless WiFi Router,Allows the robot to connect to a wireless network so it can be monitored and controlled remotely,12.00,1,12.00,Amazon,https://amzn.in/d/0dZghinI
-512GB SD Card,Stores the robot's operating system software and recorded data from the system,64.00,1,64.00,Amazon,https://amzn.in/d/00N2uLZi
 Power Bank,Provides portable power for the Raspberry Pi so the robot can run without being plugged into a wall outlet,18.50,1,18.50,Amazon,https://amzn.in/d/03DIh1oX
 HDMI Cable,Used during setup to connect the Raspberry Pi to a display for configuration and debugging,15.24,1,15.24,Amazon,https://amzn.in/d/01MeQTpv
 Servo Motor,Moves mechanical parts of the robot such as arms or the camera mount,2.17,5,10.85,Amazon,https://amzn.in/d/02zVEwcj
 L298N Motor Driver Module,Acts as the interface between the controller and motors allowing speed and direction control,2.17,1,2.17,Amazon,https://amzn.in/d/08MZPjBt
 Gear Motor,Drives the robot wheels and provides the movement needed for navigation,2.06,4,8.24,Amazon,https://amzn.in/d/0hOpbsah
-Ultrasonic Sensor,Measures distance to objects so the robot can avoid collisions,2.17,1,2.17,Amazon,https://amzn.in/d/02gVJto1
 Raspberry Pi Night Vision Camera,Captures video and images and helps the robot see in low light conditions,19.64,1,19.64,Amazon,https://amzn.in/d/0fJ9EsGG
 Raspberry Pi 5,Works as the main computer running the robot software and voice command system,172.44,1,172.44,Amazon,https://amzn.in/d/02LNSGSi
-Arduino UNO R3,Handles low level hardware control such as motors and sensors,21.00,1,21.00,Amazon,https://amzn.in/d/0icx69Kp
-TOTAL,,,,345.25,,
+TOTAL,,,,259.08,,

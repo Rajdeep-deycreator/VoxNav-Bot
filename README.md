@@ -8,13 +8,8 @@ It can be used for basic surveillance through its integrated sensors,cammeras,Ha
 
 ## Why I built this 
 
-This Robot was originally built for a school exhibition project, later i decided to upgrade the infrastructure and functionalities by integrating more effective electronic components, Firmware and an upgraded software
+I built this project for learning about Robotics and how Hardware is integrated with software in field of Robotics 
 
-## Robot prototype 
-
-Below is the Prototype (exhibition version) of the robot
-
-![Robot_Prototype](/images/Robot_Prototype.jpg)
 
 ## 3D Cad
 
@@ -56,26 +51,15 @@ This Robot has an integrated architecture of the Hardware Control Unit (HCU) and
 | Item | Unit Price (USD) | Quantity | Total Cost (USD) | Supplier | Link |
 |-----|-----|-----|-----|-----|-----|
 | Wireless WiFi Router | 12.00 | 1 | 12.00 | Amazon | https://amzn.in/d/0dZghinI |
-| 512GB SD Card | 64.00 | 1 | 64.00 | Amazon | https://amzn.in/d/00N2uLZi |
 | Power Bank | 18.50 | 1 | 18.50 | Amazon | https://amzn.in/d/03DIh1oX |
 | HDMI Cable | 15.24 | 1 | 15.24 | Amazon | https://amzn.in/d/01MeQTpv |
-| Servo Motor | 2.17 | 5 | 10.85 | Amazon | https://amzn.in/d/02zVEwcj |
+| Servo Motor | 2.17 | 5 | 10.85 | Amazon | https://amzn.in/d/02zVEwcj |""
 | L298N Motor Driver Module | 2.17 | 1 | 2.17 | Amazon | https://amzn.in/d/08MZPjBt |
 | Gear Motor | 2.06 | 4 | 8.24 | Amazon | https://amzn.in/d/0hOpbsah |
-| Ultrasonic Sensor | 2.17 | 1 | 2.17 | Amazon | https://amzn.in/d/02gVJto1 |
 | Raspberry Pi Night Vision Camera | 19.64 | 1 | 19.64 | Amazon | https://amzn.in/d/0fJ9EsGG |
 | Raspberry Pi 5 | 172.44 | 1 | 172.44 | Amazon | https://amzn.in/d/02LNSGSi |
-| Arduino UNO R3 | 21.00 | 1 | 21.00 | Amazon | https://amzn.in/d/0icx69Kp |
 
-estinsted cost : $346.25
+
+estinsted cost : $258.08
 
 the total break down of the BOM is also available in the "bom.csv" file at the root of this repo
-
-## Prototype Improvements
-
-Since the original version of this robot was built for a school exhibition, the current version includes several improvements:
-
-→ Improved voice command system  
-→ Enhanced chatbot with updated training data  
-→ Better software management and structure  
-→ Improved power management and efficiency
