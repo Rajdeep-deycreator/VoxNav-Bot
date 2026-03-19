@@ -1,0 +1,7 @@
+Name,Purpose,Cost Per Item (USD),Quantity,Total (USD),Link,Distributor
+"Power bank ","Powering up Rasberry pi 5",18.50,1,18.50,"https://amzn.in/d/03DIh1oX","Amazon "
+"Servo motor ","Control moving parts such as Head,Arms and elbows ",2.17,5,10.85,"https://amzn.in/d/02zVEwcj","Amazon "
+"L298N Motor driver module ","To control motor speed and direction for locomotion of robot",2.17,1,2.17,"https://amzn.in/d/08MZPjBt","Amazon "
+"Gear Motor ","Locomotion of Robot ",2.06,4,8.24,"https://amzn.in/d/0hOpbsah","Amazon "
+"Rasberry pi Night and day vison cammera","Obstecal detection and Photo/video capture ",19.64,1,19.64,"https://amzn.in/d/05Oc35wa","Amazon"
+"Rasberry pi 5","Processing of voice input and handeling softwares",172.44,1,172.44,"https://amzn.in/d/06UV0UMR","Amazon"

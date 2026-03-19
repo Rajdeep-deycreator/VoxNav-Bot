@@ -50,9 +50,7 @@ This Robot has an integrated architecture of the Hardware Control Unit (HCU) and
 
 | Item | Unit Price (USD) | Quantity | Total Cost (USD) | Supplier | Link |
 |-----|-----|-----|-----|-----|-----|
-| Wireless WiFi Router | 12.00 | 1 | 12.00 | Amazon | https://amzn.in/d/0dZghinI |
 | Power Bank | 18.50 | 1 | 18.50 | Amazon | https://amzn.in/d/03DIh1oX |
-| HDMI Cable | 15.24 | 1 | 15.24 | Amazon | https://amzn.in/d/01MeQTpv |
 | Servo Motor | 2.17 | 5 | 10.85 | Amazon | https://amzn.in/d/02zVEwcj |""
 | L298N Motor Driver Module | 2.17 | 1 | 2.17 | Amazon | https://amzn.in/d/08MZPjBt |
 | Gear Motor | 2.06 | 4 | 8.24 | Amazon | https://amzn.in/d/0hOpbsah |
@@ -60,6 +58,6 @@ This Robot has an integrated architecture of the Hardware Control Unit (HCU) and
 | Raspberry Pi 5 | 172.44 | 1 | 172.44 | Amazon | https://amzn.in/d/02LNSGSi |
 
 
-estinsted cost : $258.08
+estinsted cost : $231.04
 
 the total break down of the BOM is also available in the "bom.csv" file at the root of this repo
