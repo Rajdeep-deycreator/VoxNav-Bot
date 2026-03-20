@@ -1,4 +1,5 @@
 Name,Purpose,Cost Per Item (USD),Quantity,Total (USD),Link,Distributor
+"64 Gb sd card","Storing softwares and OS for the robot",5.20,1,5.20,"https://amzn.in/d/0gIlRutH","Amazon"
 "Power bank ","Powering up Rasberry pi 5",18.50,1,18.50,"https://amzn.in/d/03DIh1oX","Amazon "
 "Servo motor ","Control moving parts such as Head,Arms and elbows ",2.17,5,10.85,"https://amzn.in/d/02zVEwcj","Amazon "
 "L298N Motor driver module ","To control motor speed and direction for locomotion of robot",2.17,1,2.17,"https://amzn.in/d/08MZPjBt","Amazon "
